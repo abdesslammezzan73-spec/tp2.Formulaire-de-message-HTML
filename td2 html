@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>mon emploi du temps </title>
+</head>
+<body> 
+    <div style="text-align: center;">
+    
+        <img src="WhatsApp Image 2026-01-02 at 21.03.02.jpeg"
+    </div>
+    <div>
+        <p style="text-align: right;" ><b>Annee Unversitaire 2025-2026</b></p>
+    </div>
+    <div style = "text-align: left;">
+        <img src="WhatsApp Image 2026-03-22 at 21.48.22.jpeg"
+    </div>
+    <h2 style=" text-align :center"> emploi de temps (2025/2026) TC :AI </h2>
+    <table border="1" align="center" bgcolor = "#f2f2f2" cellpadding="10" >
+        <tr>
+            <th> heure </th>
+            <th>09:00 -- 10:30</th>
+            <th>10:30--12:00</th>
+            <th>12:00--13:45</th>
+            <th>13:45--15:15</th>
+            <th>15:30--17:00</th>
+            <th>17:00--18.30</th>
+        </tr>
+        <tr>
+            <td>lundi</td>
+            <td> programmation pyhton 2 coure <br><a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR M.LARAQUI</a></td>
+            <td>algorithmes et programmation c2<a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR H.OUDANI</a></td>
+            <td bgcolor="rede"></td>
+            <td>algorithmes et programmation c2 tp td group2 <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR H.OUDANI</a></td>
+            <td>programmation python 2 td tp group 3<a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR A.ELOUARDI</a> ></td>
+            <td>programmation python 2 td tp group 2 <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR A.ELOUARDI</a></td>
+        </tr>
+        <tr>
+            <td>mardi</td>
+            <td>programmation python 2 td tp grop 1 <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR A.ELOUARDI</a></td>
+            <td bgcolor="rede"> </td>
+            <td>Dijital skille & AI I <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html" >PR A.ELOUARDI</td>
+            <td>Dijital skille & AI td <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR A.ELOUARDI</td>
+
+            <td bgcolor="rede"></td>
+            <td bgcolor="rede"></td>
+        </tr>
+        <tr>
+            <td>mercredi</td>
+            <td bgcolor="rede" ></td>
+            <td bgcolor="rede"></td>
+            <td bgcolor="rede"></td>
+            <td>algorithmes et programmation c2 tp td group <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR H.OUDANI </a></td>
+            <td>algebre 2 td<a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR I.BOUTAAYAMO</a></td>
+            <td>analyse2 td <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html"> PR A.HADRI</a></td>
+        </tr>
+        <tr>
+            <td>jeudi</td>
+            <td>tretement de signal cours <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR H.Azzahhafi</a></td>
+        <td bgcolor >tretement de signal td <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR H.Azzahhafi</td>
+            <td bgcolor="rede"></td>
+            <td bgcolor="rede"></td>
+            <td bgcolor="rede" ></td>
+            <td bgcolor="rede"></td>
+
+        </tr>
+        <tr>
+            <td>vendredi</td>
+            <td>algebre 2 cours <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR I.BOUTAAYAMO</a></td>
+            <td>analyse2 cours<a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR A.HADRI</a></td>
+            <td bgcolor="rede"></td>
+            <td bgcolor="rede"></td>
+            <td bgcolor="rede"></td>
+            <td bgcolor="rede" ></td>
+
+        </tr>
+        <tr>
+            <td>samedi</td>
+             <td bgcolor="rede"></td>
+            <td bgcolor="rede"></td>
+            <td bgcolor = "rede" ></td> 
+            <td>programmation web 1 tp td group2 <a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR A.HAKEM</a></td>
+            <td>programmation web 1 cours<a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR K.OMARI</a></td>
+            <td>programmation web 1 group1<a href="file:///C:/Users/ADmiN/Desktop/html/message_prof.html">PR K.OMARI</a></td>
+        </tr>
+    
+</body>
+</html>
